@@ -1,11 +1,11 @@
 {
   "name": "better-spell-slots",
-  "title": "better-spell-slots",
-  "description": "",
+  "title": "Better Spell Slots (for Tidy5eSheet)",
+  "description": "Adds visual spell slot trackers to the Tidy5eSheet spellbook",
   "systems": [
     "dnd5e"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Kudusch",
   "esmodules": [
     "better-spell-slots.js"
@@ -17,8 +17,8 @@
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/Kudusch/better-spell-slots",
   "manifest": "https://raw.githubusercontent.com/Kudusch/better-spell-slots/master/module.json",
-  "download": "https://github.com/Kudusch/better-spell-slots/archive/1.0.0.zip",
-  "license": "https://github.com/Kudusch/better-spell-slots/blob/1.0.0/LICENSE",
-  "readme": "https://github.com/Kudusch/better-spell-slots/blob/1.0.0/README.md",
-  "changelog": "https://github.com/Kudusch/better-spell-slots/blob/1.0.0/CHANGELOG.md"
+  "download": "https://github.com/Kudusch/better-spell-slots/archive/1.0.1.zip",
+  "license": "https://github.com/Kudusch/better-spell-slots/blob/1.0.1/LICENSE",
+  "readme": "https://github.com/Kudusch/better-spell-slots/blob/1.0.1/README.md",
+  "changelog": "https://github.com/Kudusch/better-spell-slots/blob/1.0.1/CHANGELOG.md"
 }
