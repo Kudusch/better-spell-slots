@@ -1,7 +1,6 @@
-# Extra fields for Tidy5e Sheet
+# Better Spell Slots (for Tidy5eSheet)
 
-Add a series of QOL extra fields
-
+Adds visual spell slot trackers to the Tidy5eSheet spellbook.
 
 ## License
 
