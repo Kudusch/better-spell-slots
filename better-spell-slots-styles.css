@@ -1,0 +1,26 @@
+.slots {
+display: flex;
+}
+
+.spellslot {
+    border: 2px solid black;
+    margin: 2px;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.75);
+}
+.spellslot-available .spellslot-content{
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 20px;
+    height: 20px;
+    /*border: 2px solid rgba(0,120,20,1);*/
+    /*background-color: rgba(32,153,51,1)*/
+    border: 2px solid rgba(40,40,40,1);
+    background-color: rgba(80,80,80,1);
+}

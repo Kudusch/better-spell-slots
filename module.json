@@ -1,0 +1,24 @@
+{
+  "name": "better-spell-slots",
+  "title": "better-spell-slots",
+  "description": "",
+  "systems": [
+    "dnd5e"
+  ],
+  "version": "1.0.0",
+  "author": "Kudusch",
+  "esmodules": [
+    "better-spell-slots.js"
+  ],
+  "styles": [
+    "better-spell-slots-styles.css"
+  ],
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://github.com/Kudusch/better-spell-slots",
+  "manifest": "https://raw.githubusercontent.com/Kudusch/better-spell-slots/master/module.json",
+  "download": "https://github.com/Kudusch/better-spell-slots/archive/1.0.0.zip",
+  "license": "https://github.com/Kudusch/better-spell-slots/blob/1.0.0/LICENSE",
+  "readme": "https://github.com/Kudusch/better-spell-slots/blob/1.0.0/README.md",
+  "changelog": "https://github.com/Kudusch/better-spell-slots/blob/1.0.0/CHANGELOG.md"
+}
